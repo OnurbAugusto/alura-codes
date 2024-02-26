@@ -1,18 +1,21 @@
-README - Códigos e Exercícios Alura
-Bem-vindo à minha branch principal no GitHub! Aqui você encontrará os códigos e exercícios que estou desenvolvendo como parte dos cursos de Programação Orientada a Objetos da Alura.
+README - Códigos e Exercícios Alura - Programação Orientada a Objetos
+Bem-vindo à minha branch principal no GitHub! Aqui você encontrará os códigos e exercícios desenvolvidos durante os cursos de Programação Orientada a Objetos da Alura.
 
 Sobre os Cursos
-Os códigos presentes nesta branch são resultado das práticas e aprendizados adquiridos nos cursos da Alura sobre Programação Orientada a Objetos. A Alura oferece excelentes recursos para aprimorar habilidades de programação, e esta branch serve como um repositório para acompanhar meu progresso e compartilhar com a comunidade.
+Os códigos presentes nesta branch são resultados práticos dos conhecimentos adquiridos nos cursos de Programação Orientada a Objetos da Alura. Cada diretório representa um curso específico e contém os códigos fonte, exercícios resolvidos e quaisquer recursos adicionais relacionados ao curso em questão.
 
 Organização do Repositório
-A estrutura deste repositório é organizada por cursos específicos, cada um em seu próprio diretório. Dentro de cada diretório, você encontrará os códigos fonte, exercícios resolvidos e qualquer material adicional relacionado ao curso em questão.
+A estrutura do repositório segue a lógica de diretórios para cada curso, proporcionando uma navegação intuitiva. Dentro de cada diretório, você encontrará:
 
+Códigos Fonte: Pastas contendo os códigos desenvolvidos durante o curso.
+Exercícios Resolvidos: Documentação ou diretórios específicos para os exercícios práticos propostos.
+Recursos Adicionais: Qualquer material extra, como slides, anotações ou links úteis.
 Lista de Cursos
-Curso 1: Nome do Curso 1
+Curso 1: Nome do Curso
 
 Descrição breve do curso.
 Códigos fonte e exercícios resolvidos.
-Curso 2: Nome do Curso 2
+Curso 2: Nome do Curso
 
 Descrição breve do curso.
 Códigos fonte e exercícios resolvidos.
